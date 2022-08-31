@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "account_no": "222580001242",
+        "account_holder_name": "Nobin Mia",
+        "balance": 90
+    },
+    {
+        "id": "2",
+        "account_no": "222580011442",
+        "account_holder_name": "Iftu Suppliers",
+        "balance": 210
+    },
+    {
+        "id": "3",
+        "account_no": "221582011442",
+        "account_holder_name": "Fahim E-commerce",
+        "balance": 300
+    }
+]
